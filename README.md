@@ -1,4 +1,12 @@
-# Day Calculator
+# 活了幾天計算器
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/WilliamPan/pen/gOPaORj](https://codepen.io/WilliamPan/pen/gOPaORj).
+## Description: 
+可計算當天距離出生日已過了幾天。還附加有下一個百日、千日、萬日的日期計算
+### 原理
+透過操控 JS 的時間物件 new Date() 來一一計算出需要的數值，並呈現在畫面上
+
+## Issue: 
+
+
+## 預計改進:
 
